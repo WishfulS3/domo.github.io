@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xlube.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xlube.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xlube.com/collections/all.atom"/>
+  <title>XLube Online Store</title>
+  <updated>2023-10-21T16:31:25+02:00</updated>
+  <author>
+    <name>XLube Online Store</name>
+  </author>
+  <entry>
+    <id>https://xlube.com/products/8359641448783</id>
+    <published>2023-10-21T16:31:25+02:00</published>
+    <updated>2023-10-21T16:31:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://xlube.com/products/xlube-powder-lubricant"/>
+    <title>XLube - Powder Lubricant</title>
+    <s:type></s:type>
+    <s:vendor>XLube Online Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/3736/6095/files/xlube-classic-w-1280.png?v=1717743237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XLube Online Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- XLube powder-granulates, dissolve easily in water producing a clear gel<br>- Easy to mix, easy to clean, very economical - one bottle makes 20+ litres<br>- Extremely long lasting, cushioning lubricant with a natural feel<br>- Free of sugars, additives, fillers - no odours or any tastes<br>- <strong>MADE IN GERMANY</strong> - certified as non-cytotoxic (ISO10993-5)</p>
+<p>XLube is a 100% pure, rapidly water-soluble powder for making a smooth lubricant without any lumps. It mixes to a clear natural-feel gel without any taste or odour. It is extremely economical, long-lasting and safe to use. XLube contains no sugars, fats, fillers or preservatives.</p>
+<p>One 100gr bottle of XLube powder makes 20+ litres of odourless lubricant. Simply add the powder to water in a typical sports bottle, shake well, wait a short time, shake again and you're done. Mixing suggestions (in multiple languages) are included with each bottle together with an XLube Fan-Sticker.</p>
+<p>XLube does not stain and washes out of clothes, bedding and towels without leaving any residue.<span class="Apple-converted-space"> </span></p>
+<p><span class="a-list-item"><br><br>Contents:<br>1x XLube (100gr bottle)<br>1x mixing suggestion leaflet (<a href="https://xlube.com/pages/faqs">how to mix</a>)<br>1x <a href="https://xlube.com/pages/fan-sticker">fan sticker</a> <br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xlube.com/products/8359641448783</id>
+      <title>100g - classic</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xlube.com/products/8359641448783</id>
+      <title>100g - progress</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+</feed>

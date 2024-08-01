@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xlube.com/ru/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xlube.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xlube.com/ru/collections/all.atom"/>
+  <title>XLube Online Store</title>
+  <updated>2023-10-21T16:31:25+02:00</updated>
+  <author>
+    <name>XLube Online Store</name>
+  </author>
+  <entry>
+    <id>https://xlube.com/ru/products/8359641448783</id>
+    <published>2023-10-21T16:31:25+02:00</published>
+    <updated>2023-10-21T16:31:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://xlube.com/ru/products/xlube-powder-lubricant"/>
+    <title>XLube </title>
+    <s:type></s:type>
+    <s:vendor>XLube Online Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/3736/6095/files/xlube-classic-w-1280.png?v=1717743237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XLube Online Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- XLube гранулированный порошок,&nbsp;легко растворяющийся в воде, образуя прозрачный гель-лубрикант.<br data-mce-fragment="1">- Легко смешивается, легко очищается. Очень экономный в использовании. Одна бутылка рассчитана на 20+ литров геля.<br data-mce-fragment="1">- Долго действующая, амортизирующая смазка с естественным ощущением.<br data-mce-fragment="1">- Без сахара, добавок, наполнителей. Без запаха и вкуса.<br data-mce-fragment="1">-&nbsp;Производство&nbsp;Германии. Продукт сертифицирован как нецитотоксичный (ISO10993-5).</p>
+<p>XLube — это 100% безупречный, быстрорастворимый в воде порошок, позволяющий получить однородную смазку без комочков. Он смешивается&nbsp;до состояния прозрачного&nbsp;геля, имеющего естественный вид, без какого-либо вкуса и запаха. Он экономный, долговечный и безопасный в использовании. XLube не содержит сахара, жиров, наполнителей и консервантов.<br><br>Из одной 100 гр бутылки порошка XLube можно получить более 20 литров смазки без запаха. Просто добавьте порошок в воду, хорошо встряхните, подождите немного, встряхните еще раз, и все готово. Рекомендации по смешиванию&nbsp; прилагаются к каждой бутылке <meta charset="utf-8">на нескольких языках вместе с наклейкой XLube Fan-Sticker.<br><br>XLube не оставляет пятен и смывается с одежды, постельного белья и полотенец, не оставляя следов.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xlube.com/ru/products/8359641448783</id>
+      <title>100g - classic</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xlube.com/ru/products/8359641448783</id>
+      <title>100g - progress</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+</feed>

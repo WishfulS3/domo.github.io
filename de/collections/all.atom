@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xlube.com/de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xlube.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xlube.com/de/collections/all.atom"/>
+  <title>XLube Online Store</title>
+  <updated>2023-10-21T16:31:25+02:00</updated>
+  <author>
+    <name>XLube Online Store</name>
+  </author>
+  <entry>
+    <id>https://xlube.com/de/products/8359641448783</id>
+    <published>2023-10-21T16:31:25+02:00</published>
+    <updated>2023-10-21T16:31:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://xlube.com/de/products/xlube-pulver-gleitgel"/>
+    <title>XLube - Pulver Gleitgel</title>
+    <s:type></s:type>
+    <s:vendor>XLube Online Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/3736/6095/files/xlube-classic-w-1280.png?v=1717743237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>XLube Online Store<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">100% reines, weisses, schnell lösliches X Lube Pulver zum selber herstellen</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Extrem ergiebig: 100gr ergeben 20+ Liter Gleitgel</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Langanhaltend, geschmacksneutral, geruchlos, ohne Füllstoffe</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Hinterlässt keine Flecken, leicht zu reinigen</span></li>
+<li class="a-spacing-mini" data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Neutral: zertifiziert als nicht zytotoxisch ISO10993-5, negativ getestet auf 1.4 Dioxane, MADE IN GERMANY</span><br></li>
+</ul>
+<p><span class="a-list-item" data-mce-fragment="1"><span>Mit X Lube kannst Du dir ein besonders langanhaltendes Gleitgel auf Wasserbasis ganz einfach selbst herstellen und dabei jede Menge Geld sparen! X Lube ist ein 100% reines, schnell wasserlösliches Pulver zum Herstellen von Gleitgel ohne Klumpen: extrem ergiebig, langanhaltend und sicher. X Lube enthält keinen Zucker, keine Fette, keine Füllstoffe oder Konservierungsstoffe. Mit einer Flasche X Lube-Pulver lassen sich 20+ Liter ausdauerndes Gleitgel herstellen. Einfach das Pulver-Granulat auf Wasser in einer Flasche geben, schütteln, kurz warten, nochmals schütteln und fertig. Eine Anleitung ist der Flasche beigefügt. Das Gleitgel lässt sich an Deine individuellen Bedürfnisse anpassen. X Lube Pulver entwickelt sich zu einem klaren, sich natürlich anfühlenden Gel, ohne Eigengeschmack oder Geruch. Es ist neutral und legt sich angenehm über die Schleimhäute. So wird es den höchsten Ansprüchen gerecht. Wer jetzt nach einer langen Nacht ans Reinigen denkt – keine Bange, auch das ist im Handumdrehen erledigt. X Lube lässt sich leicht mit einem trockenen Tuch abwischen und in der Waschmaschine ausspülen. Es hinterlässt keine Flecken und wäscht sich rückstandslos aus Kleidung, Bettwäsche und Handtücher.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xlube.com/de/products/8359641448783</id>
+      <title>100g - classic</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xlube.com/de/products/8359641448783</id>
+      <title>100g - progress</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+</feed>

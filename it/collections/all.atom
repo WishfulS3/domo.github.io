@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="it" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xlube.com/it/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xlube.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xlube.com/it/collections/all.atom"/>
+  <title>XLube Online Store</title>
+  <updated>2023-10-21T16:31:25+02:00</updated>
+  <author>
+    <name>XLube Online Store</name>
+  </author>
+  <entry>
+    <id>https://xlube.com/it/products/8359641448783</id>
+    <published>2023-10-21T16:31:25+02:00</published>
+    <updated>2023-10-21T16:31:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://xlube.com/it/products/xlube-lubrificante-polvere"/>
+    <title>XLube - Lubrificante in polvere</title>
+    <s:type></s:type>
+    <s:vendor>XLube Online Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/3736/6095/files/xlube-classic-w-1280.png?v=1717743237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Produttore: </strong>XLube Online Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Prezzo: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">- XLube polvere-granulato, si scioglie facilmente in acqua producendo un gel trasparente<br data-mce-fragment="1">- Facile da miscelare, facile da pulire, molto economico: una bottiglia produce oltre 20 litri<br data-mce-fragment="1">- Lubrificante ammortizzante a durata estremamente lunga con una sensazione naturale<br data-mce-fragment="1">- Privo di zuccheri, additivi, riempitivi - nessun odore o sapore<br data-mce-fragment="1">- MADE IN GERMANY - certificato come non citotossico (ISO10993-5)<br data-mce-fragment="1"><br data-mce-fragment="1">XLube è una polvere pura al 100%, rapidamente solubile in acqua, per realizzare un lubrificante fluido e senza grumi. Si miscela in un gel trasparente dalla sensazione naturale, senza alcun sapore o odore. È estremamente economico, duraturo e sicuro da usare. XLube non contiene zuccheri, grassi, riempitivi o conservanti.<br data-mce-fragment="1"><br data-mce-fragment="1">Una bottiglia da 100 gr di polvere XLube produce oltre 20 litri di lubrificante inodore. Basta aggiungere la polvere all'acqua in una tipica bottiglia sportiva, agitare bene, attendere qualche istante, agitare nuovamente e il gioco è fatto. Suggerimenti per la miscelazione (in più lingue) sono inclusi in ogni bottiglia insieme a un adesivo XLube Fan.<br data-mce-fragment="1"><br data-mce-fragment="1">XLube non macchia e si lava via da vestiti, biancheria da letto e da bagno senza lasciare residui.<br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1">Contenuti:<br data-mce-fragment="1">1x XLube (bottiglia da 100gr)<br data-mce-fragment="1">1x foglio illustrativo con suggerimenti sulla miscelazione (come miscelare)<br data-mce-fragment="1">1x adesivo per ventola</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xlube.com/it/products/8359641448783</id>
+      <title>100g - classic</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xlube.com/it/products/8359641448783</id>
+      <title>100g - progress</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+</feed>

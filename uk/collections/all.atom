@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="uk" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xlube.com/uk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xlube.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xlube.com/uk/collections/all.atom"/>
+  <title>XLube Online Store</title>
+  <updated>2023-10-21T16:31:25+02:00</updated>
+  <author>
+    <name>XLube Online Store</name>
+  </author>
+  <entry>
+    <id>https://xlube.com/uk/products/8359641448783</id>
+    <published>2023-10-21T16:31:25+02:00</published>
+    <updated>2023-10-21T16:31:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://xlube.com/uk/products/xlube-powder-lubricant"/>
+    <title>XLube</title>
+    <s:type></s:type>
+    <s:vendor>XLube Online Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/3736/6095/files/xlube-classic-w-1280.png?v=1717743237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XLube Online Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- XLube гранульований порошок, що легко розчиняється у воді, утворюючи прозорий гель-лубрикант.<br data-mce-fragment="1">- Легко змішується, легко очищається. Дуже економний у використанні. Одна пляшка розрахована на 20+ літрів гелю.<br data-mce-fragment="1">- Довго діючий, надає природного відчуття.<br data-mce-fragment="1">- Без додавання цукру, добавок, наповнювачів. Без запаху та смаку.<br data-mce-fragment="1">- Виробництво Німеччини. Продукт сертифікований як нецитотоксичний (ІSO10993-5).<br data-mce-fragment="1"><br data-mce-fragment="1">XLube - це 100% бездоганний, швидкорозчинний у воді порошок, що дозволяє отримати однорідний за консистенцією лубрикант. Поєднуючись із водою, він змішується до стану прозорого гелю, що має природний вигляд, без будь-якого смаку та запаху. Він економний, довговічний та безпечний у використанні. XLube не містить цукру, жирів, наповнювачів та консервантів.<br data-mce-fragment="1"><br data-mce-fragment="1">Із однієї 100 грамової пляшки XLube можна отримати понад 20 літрів&nbsp;лубриканта&nbsp;без запаху. Просто додайте порошок у воду, добре потрусіть, почекайте трохи, потрусіть ще раз, і все готово. Рекомендації щодо змішування додаються до кожної пляшки кількома мовами разом із наклейкою XLube Fan-Sticker.<br data-mce-fragment="1"><br data-mce-fragment="1">XLube не залишає плям і змивається з одягу, постільної білизни та рушників, не залишаючи слідів.</p>
+<p><meta charset="utf-8"><span>У складі:</span><br><span>1x XLube (100&nbsp;гр пляшка)</span><br><span>1x&nbsp;буклет із інформацією про змішування&nbsp;(</span><a href="https://xlube.com/pages/faqs">how to mix</a><span>)</span><br><span>1x&nbsp;</span><a href="https://xlube.com/pages/fan-sticker">fan sticker</a><span>&nbsp;</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xlube.com/uk/products/8359641448783</id>
+      <title>100g - classic</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xlube.com/uk/products/8359641448783</id>
+      <title>100g - progress</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+</feed>

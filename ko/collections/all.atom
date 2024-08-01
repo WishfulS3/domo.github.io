@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ko" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xlube.com/ko/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xlube.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xlube.com/ko/collections/all.atom"/>
+  <title>XLube Online Store</title>
+  <updated>2023-10-21T16:31:25+02:00</updated>
+  <author>
+    <name>XLube Online Store</name>
+  </author>
+  <entry>
+    <id>https://xlube.com/ko/products/8359641448783</id>
+    <published>2023-10-21T16:31:25+02:00</published>
+    <updated>2023-10-21T16:31:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://xlube.com/ko/products/%EC%9C%A4%ED%99%9C%EC%9C%A0-%EB%B6%84%EB%A7%90-%EC%9C%A4%ED%99%9C%EC%A0%9C"/>
+    <title>XLube - 분말 윤활제</title>
+    <s:type></s:type>
+    <s:vendor>XLube Online Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/3736/6095/files/xlube-classic-w-1280.png?v=1717743237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>공급업체: </strong>XLube Online Store<br>
+        <strong>유형: </strong><br>
+        <strong>가격: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">- XLube 분말 과립, 물에 쉽게 용해되어 투명한 젤을 생성합니다.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">- 혼합하기 쉽고, 세척하기 쉬우며, 매우 경제적 - 한 병으로 20리터 이상 사용 가능<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">- 자연스러운 느낌의 매우 오래 지속되는 쿠션 윤활제<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">- 설탕, 첨가제, 필러 무첨가 - 냄새나 맛이 없습니다.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">- <strong data-mce-fragment="1">독일산</strong> - 무세포독성 인증(ISO10993-5)<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">XLube는 100% 순수하고 빠르게 수용되는 분말로 덩어리 없이 매끄러운 윤활제를 만듭니다. 맛이나 냄새가 없는 투명한 자연스러운 느낌의 젤로 혼합됩니다. 매우 경제적이고 오래 지속되며 안전하게 사용할 수 있습니다. XLube에는 설탕, 지방, 필러 또는 방부제가 포함되어 있지 않습니다.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">XLube 파우더 100g 한 병으로 20리터 이상의 무취 윤활유를 만들 수 있습니다. 일반적인 스포츠 물병에 분말을 넣고 잘 흔든 다음 잠시 기다렸다가 다시 흔들면 완성됩니다. 믹싱 제안(다국어)은 각 병에 XLube 팬 스티커와 함께 포함되어 있습니다.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">XLube는 옷, 침구, 수건에 얼룩이 남지 않고 잔여물을 남기지 않고 씻어냅니다.</p>
+<p data-mce-fragment="1"><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">내용물:<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">XLube 1개(100gr 병)<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">믹싱 제안 리플렛 1장<a href="https://xlube.com/pages/faqs" data-mce-fragment="1" data-mce-href="https://xlube.com/pages/faqs">(믹싱 방법</a>)<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><a href="https://xlube.com/pages/fan-sticker" data-mce-fragment="1" data-mce-href="https://xlube.com/pages/fan-sticker">팬 스티커</a> 1개</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xlube.com/ko/products/8359641448783</id>
+      <title>100g - classic</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xlube.com/ko/products/8359641448783</id>
+      <title>100g - progress</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+</feed>

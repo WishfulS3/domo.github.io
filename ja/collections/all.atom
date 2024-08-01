@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ja" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xlube.com/ja/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xlube.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xlube.com/ja/collections/all.atom"/>
+  <title>XLube Online Store</title>
+  <updated>2023-10-21T16:31:25+02:00</updated>
+  <author>
+    <name>XLube Online Store</name>
+  </author>
+  <entry>
+    <id>https://xlube.com/ja/products/8359641448783</id>
+    <published>2023-10-21T16:31:25+02:00</published>
+    <updated>2023-10-21T16:31:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://xlube.com/ja/products/xlube-%E7%B2%89%E6%9C%AB%E6%BD%A4%E6%BB%91%E5%89%A4"/>
+    <title>XLube - 粉末潤滑剤</title>
+    <s:type></s:type>
+    <s:vendor>XLube Online Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0728/3736/6095/files/xlube-classic-w-1280.png?v=1717743237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>販売元: </strong>XLube Online Store<br>
+        <strong>タイプ: </strong><br>
+        <strong>価格: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">- XLubeは粉粒状で水に溶けやすく、透明なゲルができます。<br data-mce-fragment="1">- 混ぜやすく、洗浄も簡単で、1本で20リットル以上と経済的。<br data-mce-fragment="1">- 非常に長持ちし、自然な感触のクッション潤滑剤。<br data-mce-fragment="1">- 砂糖、添加物、充填物は一切不使用。<br data-mce-fragment="1">- ドイツ製-非細胞毒性（ISO10993-5）認定済み<br data-mce-fragment="1"><br data-mce-fragment="1">XLubeは、ダマのない滑らかな潤滑剤を作るための、100％ピュアで素早く水に溶けるパウダーです。味や臭いのない、透明で自然な感触のジェルになります。非常に経済的で、長持ちし、安全に使用できます。XLubeには、糖分、脂肪分、充填剤、保存料は含まれていません。<br data-mce-fragment="1"><br data-mce-fragment="1">100gのXLubeパウダーボトル1本で、20リットル以上の無臭潤滑剤を作ることができます。一般的なスポーツボトルに入れた水にパウダーを加え、よく振ってしばらく待ち、もう一度振れば完成です。各ボトルには、XLubeファンステッカーとともに、混ぜ方の説明書（多言語）が同梱されている。<br data-mce-fragment="1"><br data-mce-fragment="1">XLubeはシミにならず、衣服、寝具、タオルに残さず洗い流せます。<br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1">内容物<br data-mce-fragment="1">1x XLube (100gr ボトル)<br data-mce-fragment="1">1x 混合提案リーフレット（混合方法）<br data-mce-fragment="1">1x ファンシール<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xlube.com/ja/products/8359641448783</id>
+      <title>100g - classic</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xlube.com/ja/products/8359641448783</id>
+      <title>100g - progress</title>
+      <s:price currency="EUR">28.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+</feed>
